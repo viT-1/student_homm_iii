@@ -1,0 +1,38 @@
+BODY		{BACKGROUND-COLOR: #814444;
+		 BACKGROUND-IMAGE: URL(images/GreenDragonFon.gif);
+		 BACKGROUND-REPEAT: repeat;
+		 BACKGROUND-ATTACHMENT: fixed;
+		 BACKGROUND-POSITION: left;
+		 MARGIN-TOP: 0px;
+		 MARGIN-LEFT: 0px;
+		 MARGIN-RIGHT: 0px}
+
+A:link		{COLOR: #567456;
+		FONT-STYLE: italic;
+		TEXT-DECORATION: none}
+
+A:visited		{COLOR: #567456;
+		FONT-STYLE: italic;
+		TEXT-DECORATION: none}
+			
+A:hover		{COLOR: #325032;
+		FONT-WEIGHT: bold;
+		TEXT-DECORATION: underline}
+			
+A:active		{COLOR: #567456;
+		FONT-STYLE: italic;
+		TEXT-DECORATION: underline}
+			
+TD.text		{FONT-WEIGHT: bold;
+		FONT-SIZE: 12pt;
+		COLOR: #000000;
+		TEXT-INDENT: 20px;
+		TEXT-ALIGN: justify;
+		VERTICAL-ALIGN: top;
+		FONT-FAMILY: Arial}
+
+TH		{FONT-WEIGHT: bold;
+		FONT-SIZE: 20px;
+		COLOR: #000000;
+		BACKGROUND-COLOR: #325032}
+			
